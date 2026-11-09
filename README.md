@@ -1,3 +1,5 @@
+> **Archived 2026-11-09.** Kept for history; fork no longer used; the STL extension is [`vs-extension/`](https://github.com/apparel-coalition/structures/tree/master/vs-extension).
+
 # Dhall Language support
 
 Syntax highlighting support for the [Dhall](https://dhall-lang.org) programming language.
